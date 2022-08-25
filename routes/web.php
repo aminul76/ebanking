@@ -26,7 +26,7 @@ Route::get('/clear-cache', function() {
 
 
 
-
+//github update
 
 
 Route::get('/terms', function () {
